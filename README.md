@@ -1,7 +1,8 @@
 # vercel-proxy
 大家使用的时候，注意下如果直接fork可能会被ban，可以自己新建仓库 复制代码过去。
 
-# 此项目是直接复制代码from vercel-reverse-proxy。感谢原作者
+# 此项目是直接复制代码from vercel-reverse-proxy。
+## 感谢原作者
 
 本项目是vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google等等。http和https接口、单页面均可代理，在网络环境不好的情况下均可用。（直接浏览器打开代理页面的情况下，由于某些js和css的路径可能会不对造成访问不到，页面样式有点小问题。）
 
